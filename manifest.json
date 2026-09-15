@@ -1,0 +1,10 @@
+{
+  "name": "Jorge's 2027 Calendar",
+  "short_name": "2027 Calendar",
+  "description": "Jorge's 2027 photo calendar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait"
+}

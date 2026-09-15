@@ -9,9 +9,7 @@
   "orientation": "portrait",
   "icons": [
   {
-    "src": "./calendar-icon.jpg",
-    "sizes": "1000x1000",
-    "type": "image/jpeg"
-  }
-]
+    "src": "./calendar-icon.png",
+"sizes": "512x512",
+"type": "image/png"]
 }
